@@ -1,9 +1,28 @@
-##################################### Made By Tunant ######################################
-Contact:  stevenphiri151@gmail.com
-###########################################################################################
+---
 
-Important:
- -> go into the folder: bin\Debug
- -> Extract Userdatabase.zip file there and leave the file there (I mean in: bin\Debug)
+# 🚀 Made By **Tunant**  
+**Contact:** [stevenphiri151@gmail.com](mailto:stevenphiri151@gmail.com)
 
-now you can use the app
+---
+
+### 📝 **Instructions for Setting Up the Application**
+
+1. **Navigate to the Application Folder:**
+   - Open the `bin\Debug` directory inside the project.
+
+2. **Extract the Database:**
+   - Locate the `UserDatabase.zip` file.
+   - Extract the contents of `UserDatabase.zip` directly into the `bin\Debug` folder.
+
+3. **Ready to Go:**
+   - Once extracted, you are ready to use the app! 🎉
+
+---
+
+Feel free to reach out if you encounter any issues!
+
+---
+
+### 🎉 Happy Coding!
+
+---
