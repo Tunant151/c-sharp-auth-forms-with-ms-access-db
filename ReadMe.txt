@@ -1,5 +1,3 @@
----
-
 # 🚀 Made By **Tunant**  
 **Contact:** [stevenphiri151@gmail.com](mailto:stevenphiri151@gmail.com)
 
@@ -24,5 +22,3 @@ Feel free to reach out if you encounter any issues!
 ---
 
 ### 🎉 Happy Coding!
-
----
